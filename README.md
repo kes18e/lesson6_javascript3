@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/23/2018
 
 ### Student Name:  
-(First and Last Name)
+Keanu E. Snow
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Completing a photo gallery application through code by manipulating IDs. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kes18e.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Add code to a photo gallery which can expand users access.
+2. Experience of editing document nodes.
+3. Using navigate and screen objects to control browser.
 
